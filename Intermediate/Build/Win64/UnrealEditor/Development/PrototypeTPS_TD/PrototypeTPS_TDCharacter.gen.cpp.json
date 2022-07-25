@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\unrealeditor\\inc\\prototypetps_td\\prototypetps_tdcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\prototypetps_tdeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\unrealeditor\\development\\prototypetps_td\\definitions.prototypetps_td.h",
+            "d:\\projects\\prototypetps_td\\source\\prototypetps_td\\prototypetps_tdcharacter.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "f:\\unreal_engine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\unrealeditor\\inc\\prototypetps_td\\prototypetps_tdcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\prototypetps_td\\source\\prototypetps_td\\prototypetps_td.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\prototypetps_tdeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\prototypetps_td\\intermediate\\build\\win64\\unrealeditor\\development\\prototypetps_td\\definitions.prototypetps_td.h",
+            "d:\\projects\\prototypetps_td\\source\\prototypetps_td\\prototypetps_td.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

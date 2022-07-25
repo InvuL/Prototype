@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\PrototypeTPS_TD\\Source\\PrototypeTPS_TD\\PrototypeTPS_TD.Build.cs",
+		"D:\\Projects\\PrototypeTPS_TD\\Source\\PrototypeTPS_TD.Target.cs",
+		"D:\\Projects\\PrototypeTPS_TD\\Source\\PrototypeTPS_TDEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PrototypeTPS_TD",
+			"Path": "D:\\Projects\\PrototypeTPS_TD\\Source\\PrototypeTPS_TD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrototypeTPS_TDEditor",
+			"Path": "D:\\Projects\\PrototypeTPS_TD\\Source\\PrototypeTPS_TDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
